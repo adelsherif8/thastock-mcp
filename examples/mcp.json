@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "thastock": { "url": "https://thastock.com/api/mcp" }
+  }
+}

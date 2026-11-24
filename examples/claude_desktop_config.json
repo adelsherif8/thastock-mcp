@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "thastock": {
+      "command": "npx",
+      "args": ["-y", "mcp-remote", "https://thastock.com/api/mcp"]
+    }
+  }
+}
